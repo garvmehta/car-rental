@@ -1,0 +1,636 @@
+{
+  "data": {
+    "cities": [
+      {
+        "longitude": "39.192505",
+        "id": 351,
+        "title": "Jeddah",
+        "image": "https:\/\/assets.ejaro.com\/development\/city\/public\/351\/GXiFDi6todJ5Lwq4SD7Rh5XU?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=ad54MWO4DVR2hnvQkal7lnBAg85rrXBGAG3x6CF%2BYzAS76AwYLFcwifFn10nbVpfqyqUqpMvZoUUE%2BjMF71WwrvLEHiHcysKYH6OBvaiNqaFQAs9nMDdE7O42qPMjkxEW6WBzZ%2Bi5k994rC7V01IiEoSJL%2FHraYMYH8V68KdxYlDTiMf63PJYnbDwZv0Kd88K7Y5m%2FXSJ%2FX1TKE9G0SPufw9nDJ5r1mg4GzhjtnBm0OKbos3VRjpCsy5RwWDEkeGIwO0vepWfEdpjxVkEns9Vh6GEFzxW7v1Qu8DcREbufE%2BmKThc%2FvJWDNoUwvJxhHqwJx1GGsoeS4YShUSvmSowA%3D%3D&response-content-disposition=inline%3B+filename%3D%22spfxwvdbkuwh4fxdbdnd.jpg%22%3B+filename%2A%3DUTF-8%27%27spfxwvdbkuwh4fxdbdnd.jpg&response-content-type=image%2Fjpeg",
+        "latitude": "21.485811"
+      },
+      {
+        "longitude": "77.221783",
+        "id": 350,
+        "title": "NCR Delhi",
+        "image": "https:\/\/assets.ejaro.com\/development\/city\/public\/350\/cx4fwuiUjysoygpDXDzCiaL1?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=HfUU%2FMtEzZLx3Hyu5gJPV6LUSR41YkNUTgTnC2Xdg6PEeyx2YfJU5tFrs1ipzhwzRxpnFRezTdb%2BN%2FLUsnLeTteswTwZYfBwz9T3%2BNeDyvAjgxuJGE1cCH%2BstDOWXB%2BHAmrir3ghDBdxaHkd0D2KvjdxA6fuoL%2FJ%2BCEH0ODqPYQ4n60QKgK7TAQn%2FPwYJd%2FaqmB5C3q0FsX65LXTFrAfwVg%2Fl93aKUvRsexMhf%2Fu74m%2FYL44jKWWqx8L3ig9%2F9tNB%2Bsk0RgKxeaWXHLdfea7xpkzjR8%2FPQDl2DiLPINgQ2WoJEfjTzmxMJSWXaqwKZ0RUxAjwruEO%2F0nXmbA%2FXiCqw%3D%3D&response-content-disposition=inline%3B+filename%3D%22t48ysckcolcbgbalh4ts.jpg%22%3B+filename%2A%3DUTF-8%27%27t48ysckcolcbgbalh4ts.jpg&response-content-type=image%2Fjpeg",
+        "latitude": "28.686274"
+      },
+      {
+        "longitude": "77.324904",
+        "id": 357,
+        "title": "Noida",
+        "image": "https:\/\/assets.ejaro.com\/development\/city\/public\/357\/2f99wx9gY2bKyvXbRBpq7fRH?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=qC0WJjBVO5OSn6oeOXz1T%2FIepo2ox%2FeWTCO1lh7rKmBL9P%2BqLLl3Po1l2O0UNaAqmJNu1ecROfqqvcGIx6h%2B%2B8ukSEES1CYAVjkn%2Bpoua43WNi4LPMpScyEzyuF%2BhkrOkMaAHoi8h082vrT3fLcxtHpNpYwlAt1qlFgziwdwf1twYZpCm7RlGT%2B4oncqkYxFloISlmFpq%2FxH86fnpBkITWX%2F7b%2For9m2n8tuUfsRPZjKS%2Bq7i62mZMgQsTxypw8iBq56CFztblq%2Ffx07KAy%2Fz6IIptzhEH7%2BUOW5iFUgivOglfM4fhqnkuFT2Eew8fFs6vM%2FRKLsfwOEJx%2BitB2nbg%3D%3D&response-content-disposition=inline%3B+filename%3D%22ya9oufo4fesykspcjoik.jpg%22%3B+filename%2A%3DUTF-8%27%27ya9oufo4fesykspcjoik.jpg&response-content-type=image%2Fjpeg",
+        "latitude": "28.572985"
+      },
+      {
+        "longitude": "46.675296",
+        "id": 352,
+        "title": "Riyadh",
+        "image": "https:\/\/assets.ejaro.com\/development\/city\/public\/352\/wqAABM7dzdi6iCHFEYKy61Yx?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=LQ4Z%2FocP89EGpOkhCy%2B6kcBGNM8oa3Mdc0nYDAB8vQgE1vajgsUzeWfUjD6IA54RvTLnHs2gxwofP9HXa2sSSSO2DGnQxkjh6fpOiRk0IQbWIZuw5L58L36J46pdh7gRqanPBQcYxqBjnLZwCbBuUtkuWO%2Fn8x9kOdayCmiTBMhkXUXq2yC07apUJZcqDu71hVL3aAkEadqMHScwRVYlnwEpXIiL0QGOR6aNu6mAgL495HA%2F1yI3CpAuyacCXRSLyKno6X6f0w19slaPwcyk10XUHTnbjLrUNe5gJmakAmBMZgajvCrE1ziEOBUkJG7mi61ZIqw%2FTibuyL2QSUYAHQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22znrmikbbac45welgb2ha.jpg%22%3B+filename%2A%3DUTF-8%27%27znrmikbbac45welgb2ha.jpg&response-content-type=image%2Fjpeg",
+        "latitude": "24.713552"
+      }
+    ],
+    "banners": [
+      {
+        "action": {
+          "ref": "add_car",
+          "position": "center",
+          "value": "RENT YOUR CAR NOW!",
+          "background_color": "#B10C19",
+          "text_color": "#ffffff",
+          "type": "navigation"
+        },
+        "background": {
+          "color": "#686463",
+          "image": "https:\/\/public-assets.ejaro.com\/banners\/banner_1.png"
+        },
+        "subheader": {
+          "color": "#f4f4f4",
+          "value": "Vehicle Sharing Community in Saudi Arabia"
+        },
+        "header": {
+          "color": "#f4f4f4",
+          "value": "The First Licensed Peer-to-Peer"
+        }
+      }
+    ],
+    "cars_sections": [
+      {
+        "filter": null,
+        "title": "Nearby",
+        "cars": [
+          {
+            "monthly_price": "4,293.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 5,
+            "price": "159.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/JwqtoGgWtjGixJH5x4faN3Mh?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=Ss2YUOxTORMAh%2FUEM0kmKQ150wRVxQ6x82Vl%2Bd1CjKE0x1RuU%2BhBUq9o9X1CUJcy9aYBqbTDe83n5D2Zi6tyGeubsqdmBPvhVN1jXkwuXzhfVzwT0VGBZFmcUzUfAwLWRduIo2HArz7A8EziFMjFI2XY99sWBwZbkeOdSE78C8jrYkebihTHGwzzTi5BVhzI06oecGwo84BVRgeb4NQaqx8KZL%2B2gTydmrCb495qKbkJlHDN7ZJFOvOtKHtSo6A10xa6Scrl3R4c1qIbBKBZyep6%2BLHKqTX9wxCo67kS8pH2C3nFV2D2MsltA8nL1%2FgypYDk%2BVGHHu0Gz51Ej57PBA%3D%3D&response-content-disposition=inline%3B+filename%3D%22vydofhs3totrpjrvuxij.png%22%3B+filename%2A%3DUTF-8%27%27vydofhs3totrpjrvuxij.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/Dx33sW1v6afxZTHXUgGEoEWP?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=tECmEvjaH1N3gBWwyI5cMKpr8v3nfHvZp%2F32m3Ciez73yzQKtYpwTkIxgHhNe5gU8uF%2F99AEpfacfKspPVg9RHPxvK9Ecm6s%2BWRYVDtt10cdlXCiWlnSCU69Dk9Ct12QFKk0Y2GPGFH1WMtHY0e6xVCbDC%2BHwbaDJIni1jPDPTVi%2BzmmbMD7oRHnz8vS%2B0%2FYebspiKMx1lKunS8bIx%2FfvaIhY71ap2uJ8b%2FW76iv%2BxOXUoPr2nUhcadbecyuP4SC%2FDqF0xXRdK643Yd89wSWMZF5MTrpFMJXAaxj5x4GxBM0iQszcvMMXoxphKnDYfieXwkifMam7Zns6nGfiVxtbw%3D%3D&response-content-disposition=inline%3B+filename%3D%22fcepsmupuwimgjcummwm.png%22%3B+filename%2A%3DUTF-8%27%27fcepsmupuwimgjcummwm.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/L1EqYHgEtH6SWiPuPSPrdwct?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=JmRSDslEGFgchOjcHVvg48hD4PM4aGySWIt8cHZKKKMIg3CFFtrQAL5wYPuMD9ObIESMNs7GMGrDrp8mY5nZlpAgM%2FpgNPc%2BJ78Eaczp5sKQPIb%2BcN%2BUapEko2K1BhB1jbKbqoPmznb34BsDmY4syWfkOenS4VkvdJjlTws33YNRjIOTYAiRLKo1Qk9%2FsXQt1kLcuUYpUgGmBvH3%2BwV80U%2FdvuXWfbpG2ajofMvDADMxnLJoyEa1ElxEqgHLQl3xMN%2Fz%2BhO7VwN40R74EcZSf6YADCDkxEtwijC79o0vpQAzd9ehalNHjdit5uRsv8LFnCW82DbOwxjt4h6hF7SNcw%3D%3D&response-content-disposition=inline%3B+filename%3D%22wr25llevghhdvgka3acb.png%22%3B+filename%2A%3DUTF-8%27%27wr25llevghhdvgka3acb.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/YYVCPYuXSUtK7QssRbBzSx5S?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=iT2kud62P1SaiB9zuO2chpOIXbHlZsaKOQStBRkmg8PbgWb2Ap4SR5IBZbzbkYS8kRCmFoHwB5d5AZkR%2BBoq%2Beo8wluA1t4%2BmH2F8XAqHDsJwMd8NHAlCNm2BArJPFK7CvtFBFq8CuhdHJ90ajjJ1se3H8nbtpbwHzbwPvzuhhskCfGEmtyt5w47EotPs3qtcFv7M%2BTu6RJH5IrtZmJmZB84Wxy5qrf7k2kReQOrjAxI%2BjFYGGPVvAVzBRW0m%2F3TaLki4SjrPwlZv1CiadRf1qAuP%2B%2F6xMB9EpghfQeUkCZmv5OGQXYkyhc9Yojj9JubJ79SlHyeeAv0gSlRrW8iqg%3D%3D&response-content-disposition=inline%3B+filename%3D%22fxgyeftzo73eskeff0hx.png%22%3B+filename%2A%3DUTF-8%27%27fxgyeftzo73eskeff0hx.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/bdA4pyNoYYm8m1BgYwxUQeo8?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=HQUzLyj3Yh26QYMO%2Fu1DACgWf8a9oWRulRtb23zlXlF%2FJlOdUh%2BKOmM9l21zoqM05JXrEMjuQq0Gd6ZEHH88zoSM%2FuJ527wDpjt2i%2BHcLc9eGWqSFAmmn8OF0LEVhAx1FPosQUfjP%2BY1ACM7Q8FZtZWoZf%2BE0KXdQYl4wZAE4%2FT%2BenQMkcoTxeGemskUqSQsuJNh2JY3RioUH2bP3LrP6Flhk0fIFcXopRQwkD%2BD8uiGZfRAC9C7qT3ehGIRpUp2jHsbdwP%2BK7M3ln5eWCqFCDL3AIIVFrBto8SGqhnlQdZZXIItmsv6BPIWNFkzpiaxN6ArtkF8%2FLH8SWQeEZhiHg%3D%3D&response-content-disposition=inline%3B+filename%3D%22vncy0qm5iga0ik5ul8tp.png%22%3B+filename%2A%3DUTF-8%27%27vncy0qm5iga0ik5ul8tp.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2425,
+            "name": "Audi A5 2019",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.530290188755806,
+            "longitude": 77.403585337780839,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "1,002.00 SR"
+          },
+          {
+            "monthly_price": "1,593.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 5,
+            "price": "59.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/fNjr4aJKchUxQcVys41P7Uwi?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=j0ZY6NZNbikeK4EaGnk8lPxzLSZoy%2FrcmGkwu%2Fno6ibiizrBsrnKTAwnVIW6NYKliU0UzEH88OsWHnxMzCJbmoXVojUHpUHM6lHnUBOovXyGpD%2FDgopxB2Wou0i5ZBfnZFAIr%2FTrNjmOQ4cigSd6ni%2FnmqJdHch%2Fb2SWmw86vINHdj%2BzZrn7eIFS6Y4d5oGpFqdbPcjjArvfRdqiK%2F10pVCUb08PKEWP6O9cqBUY5Fw2cKCiwD4sOjoo5E6eRLSxvlBu2srZmVSaC6fYZ4RMNmMQuQwOfoeI8wHEDcOtxl%2BVfDmnqv6OcK%2BOJE6GvkYWpZjy99gNRgFOrXeGA4YpxQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22sixuvazrkzfhngdz5ed0.jpg%22%3B+filename%2A%3DUTF-8%27%27sixuvazrkzfhngdz5ed0.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/jAkjtX6q8eHx49xwXHuLXsEn?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=kreEd8ARN5pj5P44l8anlcZ%2F1SdPz1RV%2BI5Y69siNTpsxQ9FBR08w3Gh3p8ibYFAit9AiGhbNI9OrUfgF3fgKxZTqVAyUMfSO6gy4svUeQIFrnHOPyf7ZV32P9qlOeYcFgpZYUZzqYujPJjtV4zsFQpyE9V2QPme9iYPElgkTRQUBdihTUElirYT3Of2PpcUE6j4L0O5h58pf3uiOaFT8ItIPmQjHexRvjBW7YcCJFxs0EYJr7hnzmjSLrZBysuNaND8QVGc7J1eiMfmdj5zPNVrfHtxfCToLd1dAOjJSnl%2FBrI74zhJN0rNfNXgBNuAqOXMCDmLjvdQkBNtA3%2FEDA%3D%3D&response-content-disposition=inline%3B+filename%3D%22rdoidh9ypxpm2isvcd8h.jpg%22%3B+filename%2A%3DUTF-8%27%27rdoidh9ypxpm2isvcd8h.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/NR6ksUX12WqUGzQrVe9xjLLk?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=b%2FtCtebu9AmRWvrjZJTb%2BqbdtC0EpScX9P6uqMYGMqqooRuTs3AR2E6%2FOSD1XIOexRXGHawg1Mqwx3K4MPFJjQkl5KehdJag2ybPrlgCd6ZDYKdhQEyn7z%2BOucm4MWUen%2FE6pfwl9yP7FNKa4tMrXaKDrGh%2BxXye5ZiAA3dtYMOaMSonAX1b8Gca34htLnt2HULcjDXuGpKd3HZLFXzCaL9dhivXY22SjSowHyf3y%2B2RRtPce8Im3hY1Ow37aDGzBzZm6itckW1XKZLMKIGeG1oO0cTRlKh8nhjxYENa8lzDv2YGRSI4LA2lgYHokdULTbxkieNOOfkvjNo%2FNTfA9g%3D%3D&response-content-disposition=inline%3B+filename%3D%22ncfdxxml3sclv7vuuqc3.jpg%22%3B+filename%2A%3DUTF-8%27%27ncfdxxml3sclv7vuuqc3.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/9irFCnhWBSxZSrq1KtGfAmfn?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=bu16DfG5d%2FxwOgMg4gVDDtE%2F3fmT%2BIiBW4%2BHLnKTvaJ4GEwspiwDF8IthCUA3XgaQGOC%2BFX5uFOE21SytqbzQP2WQTWE3op01x62i0kBhjrxn%2FFiTQgAhngOxaaFg%2FCzo9%2FequZAOfRQ3fNe2zmToNuZbnpHAV%2Fq1rCaCE%2BA9GHSvSYYzhHVtvGfY27IYlcUJTipYizMC47qq3Jdi%2ByMO2mcHT%2FdDMVavA7nH3A9gl5cZwGLfPFDXrPfmahpqV3N7eV5bztRhteNGBx%2BiFxDLaVn9xuGdupfjRTpCFS7iZGUcPYE7quz7BnyighqCMh7afwW2NAQ535RVuP0xg48Ag%3D%3D&response-content-disposition=inline%3B+filename%3D%22zhlgliz6ugcy9sh3ggxz.jpg%22%3B+filename%2A%3DUTF-8%27%27zhlgliz6ugcy9sh3ggxz.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/mZFRVyoFpEG1WbeD6yUygmSo?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=ECvNItRFa8F50d1vDVAaHI9sytRv8NNjvAtJZOG0UY5GCv1hwsXNtw8kIlUkT1OLDL0xk2X4QgJevzDz9cRVKYdkAXnLUYK%2BedV%2Bu0ZwNgupxECocBXOXCh9nQLeplljSNn1hSsbXR4yFhe7UA%2BkeqwAMHGOuFtxjS2o01eoiyNYFEO%2FS8TvXYjA%2Be%2B5YAVCPsP5lfAMpBO9CR4VGK9CM7aSQXmYtokjWJ0KT1X2EYkwkiNXDGvY3VbitOdXGM9d6af8CG08W7CV%2FKHLqKyUv3wapdRtvHBCk6xVSnLR246kzhnMosKZRHQr0dj4KfwIgc11XwkqQOa6iPpWdmtqUA%3D%3D&response-content-disposition=inline%3B+filename%3D%22evfhsukfq5diqbqhehys.png%22%3B+filename%2A%3DUTF-8%27%27evfhsukfq5diqbqhehys.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2052,
+            "name": "Am General Hummer 2016",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.563629515879764,
+            "longitude": 77.44586251638556,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "393.00 SR"
+          },
+          {
+            "monthly_price": "4,165.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.0999999999999996,
+            "price": "139.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/H9YupkoXCLyQHNDM9jdBHXiF?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=FUrz8cTzs%2BSNorIDWsjXdDlUCcxQZoP%2B2l%2FQvYXLjgBv%2BOqYeoOaP6c%2BThC2l%2BBSaVFRUIMLEMMBrwsFMJumkbuV8ulH8l9TGsPH1udo7N6cxHfPQIEwE5PpOC7o6RS3lw6GmQgh3qE34KCWHKN4IPxj33Hy%2FnTzmPXGr0f3vJ5UmSTYyP3OuIxXdyVgLGypZza%2Fixx5cSPcgG2EvUanTnqKVz1EdZp0Uk0dv1g4FkdfP2vrDKSsAK3x9pPT5gNZJMMtnS2dixHjC1pJJqNj6WcOzioPTALNU3uariCNfmpnOsnvV82X5tgg2X0R6Pa7UtRiXaTjPJj0ccU4seBj1A%3D%3D&response-content-disposition=inline%3B+filename%3D%22q9xym3gsl1r2sbwtspsf.jpg%22%3B+filename%2A%3DUTF-8%27%27q9xym3gsl1r2sbwtspsf.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/fdPG6HpXqKb5tNMohi4oppk6?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=djAfkmhtGcYyhTNTVXsrV2wOZbg9C6Ub6gvTlhbkESMJOJWO94e4EOfIn6DajcJEYJeM91R2cXDT%2BIuAjNL1Hj7SLWfdXHIB%2FoxAve5GBKFMAzf%2B9U0bV8B7K52y4R6GNKqJUWt1Rylcjcx%2FlghP53NsKMC3Vl6F%2BXXVLHTKS0vFXjA9sRDnPfzZKmlQJLGf%2FvqW%2FqfdnPl78bI4uiXlmFr60Cp3kuxRgVhxXoG62hV%2BTEMoeS8ObwvTTEtITAQiJMsFqHvlWI4vSKH7JfwnFf123U%2BHBIXmmW6hQ2YoRifg0156Z49RU2NYPivHcDtTphyFCsiZLiOWhII6jMcbsA%3D%3D&response-content-disposition=inline%3B+filename%3D%221638729176227_bmy7dz.jpg%22%3B+filename%2A%3DUTF-8%27%271638729176227_bmy7dz.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/cVY53xwRkYzNsyYG9uHZXwQJ?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=BhmlJXTqSypj%2B582c0UJc3phcy5VsvREkjXm%2FFkCf951dvYPAg7BPOFHPKtOvlyCAzQykqmcozr%2FVb6zl4l3fhKTSlY%2FaAm%2BeyrU5NLjbHWyaTZAg2jGG9iuFvn%2B2GXwAPLOIbleTKC5jtTqIIPLqkNKblfA3NM9E3FFH%2FiKD4QzaCwhzaXwNlpVj6B3oa0bkB%2FBripPjQ2%2B8ONgS%2BgTUyD7birIHAF0O9JT0V%2FS3A8OWojVTf%2Fev35OC8BXprf84ZpJKRD567yf3on8D9tf2zPk9Lv9hsEd3ElBdRKvsmjX4Pf8QMpXtbuME9f3K0SnF0kobWRwv2xrzVY59MrA%2Fw%3D%3D&response-content-disposition=inline%3B+filename%3D%221647942566939_qjbjs2.jpg%22%3B+filename%2A%3DUTF-8%27%271647942566939_qjbjs2.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/QbPFpW1CLnMQnmssVgeFt28f?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=TnZAzaszT6WTKKIQw4Io1uVG%2FOPveFQ4NRuFIE2KYZWjFgaAKhHwTrO5JSPVvIOpopyTu9kn9NYPrqYPnKHoSSlwvHHbpaF7ac4aLn%2B4OWzqlO1ooPILImyykhn0fvFo84bydtwGR0%2B2zkfmCY8hnxSvC7zR9GHlWZoEhY3K%2FIArvJpckV%2FmF1Iq2WXdwk2bI%2FrJVnbcCptilRXxPl9ITVRF0D%2FE2WlYZKfSkcir8C6ElzsIoGGOTfLiB9JMSxj4MjiBULYdleBd6w1x07p226fNq0%2BdZLm%2FdrQ2pvNLwLFr15iEeEj%2B%2B19cchaqEUCN3oZ07Ge1qcRvN3b4DJahYg%3D%3D&response-content-disposition=inline%3B+filename%3D%221635762368666_qocz1o.jpg%22%3B+filename%2A%3DUTF-8%27%271635762368666_qocz1o.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/GNTUsdUCqFihujLyz6GNUJ2k?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=FYGqxif4TO3EY%2BwhpTTYIgPc%2F2cGRvrBZBjVazu1oHh17rFH4tmozJOnq3epGAyRlBgebXDqzqBeSCcB4Vl%2F5y%2F2aNDfSGs919D%2F7o77tOSYmDPWckiGbo0DqTWOnU06HQjbMzEPDrIapnxk%2Blh11osTGBGOtmJTWok733VZktJ7wj1Bq6R3uFHT%2FqyXDOPT8dl9%2FAmCyw6zK1v3v5HhrwSCcKE4XIk4rtnowl4GA3dmjHve9SZ58ot8vzd4cugMwCKnUxhKaOZ9lJiYOin7%2FLMfitWSwBSsv40u6%2FLhXS4k4MsVUlr3L4WWBnUwu0lnNsONZI21mN2v9REmT8EmRA%3D%3D&response-content-disposition=inline%3B+filename%3D%22o2cudcxijaidzoi0ao8n.jpg%22%3B+filename%2A%3DUTF-8%27%27o2cudcxijaidzoi0ao8n.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2266,
+            "name": "Aston Martin V12 Vanquish 2018",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.594113860560423,
+            "longitude": 77.37213782366436,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "777.00 SR"
+          },
+          {
+            "monthly_price": "1,200.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.7000000000000002,
+            "price": "50.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/mUC6xHdLsQYt9iWdeqWW5uRM?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=Za%2BZi8SSOpWXXV8rROqwymzSEfeL3G%2BxPQ8HGaY8PQCAGV42SOVTogk29IMaWAobyapL5Txm2apwWOB9mwDnFwju3hn7N53eC27VCOfsrHbf1GO1mNaB%2BtNDG1pX6RLA0Q5HNB3xRQ4fzBCdXuNsBRkPzRuhFMiCsjTT7hUJk2FflYaVPOzUu3vVdiif1ph6xesAw7nCb0gd6yXy0L3zqTP%2FpMN9KyRM86t%2B6WxL6ymgSRaPaLBkqa0mqZfYX2D9JUVTtDbRx%2FojlPtZAQDI2g28P0iKpULbSaMzGfRrCxfoAORD0vGiA467BRwXg3az5FtmZecl3PLf3ImVIUI%2Bbg%3D%3D&response-content-disposition=inline%3B+filename%3D%22drnzps4553mkm7u3dwod.jpg%22%3B+filename%2A%3DUTF-8%27%27drnzps4553mkm7u3dwod.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/xrCyu3nr3r8MmReBGxeXwCKT?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=iAVFoCqY1MYaDgn8HZueZAi0dtyvMkplwGKzoDgBteseFMN45O%2BrLKC%2FUpKsd88go0IUBJxfYWJUq1pmCpDnHWziTeQUPgLLHje6ra4NGw3HIofi78MpO3c4J7vJIH9hzxxFFN9UrvMkVsKQ8PJdDiuxc2WeE4SHjIufQSn0bQ24IrJ7cuwlWZbGsSh8uE6R3epVAVrUbHj9sZ9fV20P9L1PKnHQfgSOzVeYfXHIILbHlRxqMu%2F2c2CWirUKsWHRzcaZNGQMvvbcnbhopILuds4BUoHsP5XaFJrtWOG%2Bhz%2B%2BoGHIjnU3xwkTHZ8dleVF2bjU%2FQ508P8%2F2PODuj7GLg%3D%3D&response-content-disposition=inline%3B+filename%3D%22sjzxddnr8vr9ehtr48w4.jpg%22%3B+filename%2A%3DUTF-8%27%27sjzxddnr8vr9ehtr48w4.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/PvPaofu6n4KAU3zrtnu9wFYS?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=IgwhARIWoXwxK6cDPPv6xMf%2FDF45WbRtKul8lR5cTEdVccXiUPaJFIV1mtv389goRhUUPtjVHkudT3zxxbPCm%2F0K5%2FEe%2BXYNxo0W%2FHXBsTS%2B8gdtb6B7bIIrjZz0MRVE2rv9Eeeyz0WQnwQIHVIeB0YQKc8rDkuwgjlzb2VR7ig4MvCEhET%2B0bi8VOnFYLeWLxS5KRk5XV5iqEmBtsqnmBAUXKm5MEXntDPhz%2Fjg%2BcvRiPzpNLPCI9fgpVBjLXDxwOB%2FcqM%2Ba4g6l0tO7kACdTczfFLExtNSedsXI4%2F3KEgwh1tMQi8nRMr%2Bsj9Amkp3tRlrwIjXd4PXf8SBMdgKLg%3D%3D&response-content-disposition=inline%3B+filename%3D%221665557585521_klqohs.jpg%22%3B+filename%2A%3DUTF-8%27%271665557585521_klqohs.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/9xuvtnfoZT7jQKxThVuzsDsP?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=aN%2BPt89KVbDDx7YRRYQYHzKfuIa4hdYrZ%2BXdeUdX6a7X%2F6mWVLb5Tz5%2FjDVlBikp0zg89gjPIKmJPblnAPLTnQG%2F9H6J3%2B7v4x9MVqMQ0ISI8t%2F7dZ5HSchxQowzPxOaQdoF%2BzletBqMylCCZeGmEqy2Tke1agb6IIWCRpUlc6P3c8Fjes0fL8aQz2s8y0Nf0Kid44q374c7QcKHUDcsp6nACgIQoeEamdpisR56Vy9Mlw6qz7ygOEZKPXpN6xugk1IjO699JwZQ93kAQdmmP0DhKhfBRwHotNqAMSq8P8WxZN9M2wnmZ5Xq4k%2Fc0FiiCRoXT%2BXkhgaGXVxcWSByBg%3D%3D&response-content-disposition=inline%3B+filename%3D%221654847285698_t7ct1z.jpg%22%3B+filename%2A%3DUTF-8%27%271654847285698_t7ct1z.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2046,
+            "name": "Aston Martin Db9 Gt 2020",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.613193581169082,
+            "longitude": 77.371282664789049,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "70.00 SR"
+          },
+          {
+            "monthly_price": "2,856.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 5,
+            "price": "119.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/iFxhPvfTmcbRkEuiauEfCEq3?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=rAy6wzKhl6MYT8LVCLbzqxSEGaaOUjIi%2Bpk3ISCtaayPqFw1tn3Kn03Xn5RsKrB4o%2F1E8OLorEpzaaaCMbh1iiIIWebrGpfMw1XvcoY3GSrdc7XtCNnZv%2B%2BsNz5ZulCA1oTxqbDrZXXthd3fAyp%2FUr%2FZEAx1GoXdty9oBDzwmCQivmR1Lj1ZGmebTxpRPNmBtG2CSXAxkzZ6kOIj%2BBuilasWB1ZXUHSmOncrGkrImlUxxIa97WThobhRFcVvbzj2fpTCUA1TA2mDorHJpEJA0KeMYDmVMzjMZDa1vEmYO7CdGcPeqY6Geiojaym2Oy6W5iWQq64nrJupxyP0AE3hLg%3D%3D&response-content-disposition=inline%3B+filename%3D%22umb6k4uob8odw5rbp2im.jpg%22%3B+filename%2A%3DUTF-8%27%27umb6k4uob8odw5rbp2im.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/a6Waz7LH5YVxqJeabFNGowjF?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=KtMWZBc3OB%2FldGKBcWzIUCOnQ5Z25QOI1sNM%2BdG8COmIQ7OAGgu0pcWrirKQ9BtIhs256HJ4NO7LITzBw4rkUmvm4ei6ebjiNUBtlLO2ZI7e%2BNTEyIoUUq9g4FA1%2B%2FiKsTq8ER41g0Nwx3DrdODwaFc37548oHyAwnGEWS1Hmq9uLdFGb6ZCCikH33yk3zn0f1xewjtNPeOn%2Fo0jc3dQiaWG%2FJQzk9lQSCliaT3aAKxU2fYjYo8hBrvVCkJj8lw73zrYbCb6NkMQ%2BSM6mIEpbt%2FcTPA%2FlQisSdtGQMkhlW2%2FY53MOc9pqt%2BIYs3hHpy52%2FuLoR7ZFFDGR%2F%2FOGHWeZQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22rvlpmxrskhvoq6tlummm.jpg%22%3B+filename%2A%3DUTF-8%27%27rvlpmxrskhvoq6tlummm.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/sPtVJPXLKokgTEtXHjQfmQ13?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=JrCp%2FHIhH32FMWeYRd9a137B8oM1UDq4VxzsJe1zHgAHWBQgnUvSO%2Bm9R99WhC4vRk4x0G3wr%2BLaFMLURk5IJ%2F9GOiGWB1xJQczWE%2Bn9osrgEbnkjSGIY3s8GRXXyXyrZIbt9uA4BzI%2BzvTVMaZX4lRrgUEqEF9Iqvdrw8pBVK%2BsfFVBmA1cvvBuZHCe8sXdP99lgVVc%2FZsfo8qLoYHStGRZDg44FSnnBcUERXAeT5taqA%2BzloQZJiC2vVtElrXzMEdqLfY1SMgmMzAGIs2bUI0mjN0Fg%2BZiigbtXIHlwJcXeXhDZ0D87D%2BRo6dAeGq%2F7%2BHR02S%2BeO%2Fg3XfjDj1h8Q%3D%3D&response-content-disposition=inline%3B+filename%3D%22uvwyvscvo7kn2xxrzwvm.jpg%22%3B+filename%2A%3DUTF-8%27%27uvwyvscvo7kn2xxrzwvm.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/eyuWukdJrg6J6CkiM7L7FD4t?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=I3lsaD8grrQze9lOAjKuejqw72GgftoSriiO3jK%2BJHocs8%2FvsEmoiZNk2b6CFFia2CHwLqwjK7%2FcfgF3bHL4DPntH1tnlEDwsFVrHn3cwKSb1zYPUqMwrV57g%2BSF4rpB%2BrFonl5%2BvihQ8htSRA6xq2cLK1EuTTDxUcLCC2Z2QKtclHrwcYtDm38xYrbSIuinqfoTcah7Zu0ASLetwkmsyLYScMhQvSbw%2F5Yg5VIA7tgMDPH7Sv9G6uREM2q285DV8gN420Oin6CepS31d%2F8jxRLSobQCoazaEaS%2BZpP4RGO2b7c0EBPAPvE4y9MNsG4HRqJ6tbvJM%2B5LFfu8w6DxaA%3D%3D&response-content-disposition=inline%3B+filename%3D%22inyzylm3jqzpqadctuxi.jpg%22%3B+filename%2A%3DUTF-8%27%27inyzylm3jqzpqadctuxi.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2160\/ttqQyu2Mhszzxpssn77ZGx9F?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=EhEuBXj2RrypZgAQrzKN7G1X2y5O23mxio0lLRt0raV%2By%2FsQH5o9Tt6T0bPFvipXs3SpVeynGwIsGNehsXD4UKUiKwYW7E%2BJHFEsaSw%2BjM3FQBshv94No5SVWCScn1crQZ6TzvhRpecwbO9BWX1aaBwpuZ%2BrHNmbnpMPrRumc4EZoy8caU%2FQN9P1TKpPCk6QXdmudC4gB45MizldMZd29KzkrhIxo4rq%2BmPW8UK4WUxrtOY5x5BQ%2Fwms9algcut6lqbcxCHZFnuY8hrUBEySrQQrLyg0y%2FaAnKbEugHBVcso0FFFkfY1jCMCDccSvYF%2BK7Iz1D7s8%2Fak%2B79ovSdwqg%3D%3D&response-content-disposition=inline%3B+filename%3D%225EE71D07-C217-4FB4-A37E-64476FE4FE47.jpg%22%3B+filename%2A%3DUTF-8%27%275EE71D07-C217-4FB4-A37E-64476FE4FE47.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2160,
+            "name": "Mazda Mazda2 2019",
+            "host_tag": null,
+            "latitude": 28.614002850655481,
+            "longitude": 77.372950390104563,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "750.00 SR"
+          },
+          {
+            "monthly_price": "2,451.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.9000000000000004,
+            "price": "99.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/MX86FRtLMZBNnVH9L1xjhixx?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=DBrtwk8zkWXuzvnnBfcs0fVcja44oTzE1PieKVDBtwuA21bQg%2BtIxCBID2%2BJ6WbmeQbeC3ThDZEQ22zKOTwLCNcVpFLX2%2F6WWm17kdM9ZpWLtEzD5rUk6LPnRgLhHRMUaBS37fhoT6m4u%2FZkmhfKxQZiOLFbJhYqyqCCfQrfMVSxCohEPJVlyjli5up%2B0RNZoQ9ucbP%2FbXXdnCVyo%2B4PIk152a5HyJuDEbKCEWND7H3J8CCFdeYOgZOuejdRHBHTE2pfJ37Nh8o6uXnNdN9JKS8ACnwckoLB%2FFrh4XMzo%2F1gYO2muBR5SwIYyvNRtYsf%2FggVwuXmp9d5h4jJ6hyLUA%3D%3D&response-content-disposition=inline%3B+filename%3D%22cevqejbejpgpyybrqv1m.png%22%3B+filename%2A%3DUTF-8%27%27cevqejbejpgpyybrqv1m.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/iCHJNF7FzCbdbbzSyibRXfgd?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=WDyeTYHr2SWEQh8U8jUaL4wYm36LN%2F5lUm1f2J%2F%2F%2Bq4yWIkm7KxK%2FjSi3Jep6cTID3F72r%2B2FrSWl%2F6r%2F7c0CMnbpZp178XFTXQ1P69idbyPPy4yH5%2FnVopD3f9lW71wEbDJEreKHz0PfCw0Zm1SzwfI0HjX5bk2PJmpTJKJsJJyHIa1Cr%2F7JAQ0aXDukabZK6TkGaHYOoBMdB4GG%2Bq7ly84YibWMrNZK9YWD8NF4Bt3Fa47JKcxAvfex6GYPb2Ei4LQAn8XcPIrwS%2FqsVUrbTX9KXJthNZQjscZ50ijUYyzHLQM9NhEJsMOVSer7hSGazrzQ9%2BcmwGN5xNt2OgU7Q%3D%3D&response-content-disposition=inline%3B+filename%3D%22ed1kdeai09ubx3udcldj.jpg%22%3B+filename%2A%3DUTF-8%27%27ed1kdeai09ubx3udcldj.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/e1yXMxhmedVYzF7QForCB6EU?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=K%2BIScoO4aKkvidW0fNeq73InKF%2F9IWBEA9u0OSQx7vKDfIxtDBaeSxSKMyMJmlfIA3ybYqy3hMaCSLlstfOqsk4OpVKeJCGRYudGBxttLhC2FdHKXNktnK7T%2BD%2FoFmdepBPyhcFRZHpSFNHpvH9oOoXW6faVuDbkgjECZ9EKg4%2FMrt8YylLMkPC6IbY%2FIkp%2FTFdA3SqUKRtKGZpXyXDXsipMxWwHAvX0tvmVWUIzbZ9%2BozP6NiBdWTnAJiggxxfM8ctcAQ6ngDCIdae7Adf3JBx2DBpb1MFtgfJBxLpDLqv3lBZHStLKuWLQGAUIWPY8KDDYWXM1SKWpcSfCbAxR9g%3D%3D&response-content-disposition=inline%3B+filename%3D%22zsk6zmjtdzgpl4mexggt.jpg%22%3B+filename%2A%3DUTF-8%27%27zsk6zmjtdzgpl4mexggt.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/eXjmyXVgCXZgpMoDH8B9CSvL?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=aWvUWjwztVlAsoa266Reaa7uhafpeJLJRh6q1LPSY8kzliRur8q7eqy2EV4vzlkX82GMf5XxPGnGjgkq%2FVRIJRA%2BYfeGBr4gt9YCX6qIQC82hJBi%2Bemn%2BSeLv2zyUD9zQ7mvDVxeMcLEnsBNVJMRWQ%2B9FXKoy%2FO5rdU1OSYkPgNRsxWhW%2FYXE0UTZ%2Bka1CgKhaXZszV6tND2XyVuLlD4k9GI4dzkaNl4uzxxivDyvn5i%2B2OEMwIwJ52lKRox%2FCE%2FuFZD2UVp20nV3Tf%2F1E0xsOBeKU4zbEPmOfOzSCn25S0jmTBTX7%2BdON3uGHOo2c4uyQwjjk%2FkhZeZYB6RWyF7BQ%3D%3D&response-content-disposition=inline%3B+filename%3D%221641816250103_sdg4zt.jpg%22%3B+filename%2A%3DUTF-8%27%271641816250103_sdg4zt.jpg&response-content-type=image%2Fjpeg",
+              ""
+            ],
+            "id": 2253,
+            "name": "Cadillac Ats V 2016",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.614076394464409,
+            "longitude": 77.374040429174627,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "639.00 SR"
+          },
+          {
+            "monthly_price": "2,970.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.5,
+            "price": "99.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/staging\/car\/2793\/yMeEKxKyi3nJqTrnxdQxFrwj?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=qVZ9D1H8HzZFlQs4gLXGwsoq%2FdCvRAjjj25%2BJStlCeS%2BaXLSZrwoDRdXHF3E6TeHzIe8Cabdw%2B2h5M11zxQ9NMazcTCJXx2GFEMgX3C8lshWY9MCrevlBTmNUm9gLpSWunYBk5u6pvHbX81j6%2Bc79veroFc%2BkjUxMhDackGVbs55yI99zC6zzbM97RJKU1nv7Lt4AkgfQ0SuTcm7%2FrKf%2Fkw6B2dyPdSE4PqWPiXDTR0mk2eUmSbGmCNS0gahhGniH07Dm9Xn47xso7mdjQZl5CTMVZ49pUJw2Tydgh3iRxCBy%2BUIPh4vRndW%2FnP4NSrVWJASdlcEcJjEAxB2NFbuTg%3D%3D&response-content-disposition=inline%3B+filename%3D%22car.png%22%3B+filename%2A%3DUTF-8%27%27car.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/staging\/car\/2793\/KhgvDXBffuojEgA6eB2aQYa8?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=WC2HKFl44Sb5eETrnlFUHz2UqFfdEhp%2FDAxI3dP2T2ehqlksmpK7R3voBcSE35WNNSL96GuujdDJ6wTO4sTalX6FjqKVeH7HGq754MPstdixKEi1Vpt7PCZOZC9NMibv6pyw%2BaNPUcjCJSwJr2nrVTxrIQvWUa3gQxNTEcXFS419FNjp3NIoFCY6NGDRl0sgwtuIkdfXjizbJxv%2FDiF2azXddUfJUSerZQ5rtWDv63pP2sbso4556yOB3F8da8H6OXL6sF6k%2Bk%2FYkK2b3Gpop%2BoKa2eE2c5vgMDiPv4PJbhCfkqX4EjI6TE67i9NV%2B5Iqceg%2B9ocH23jWYBsLB8eKg%3D%3D&response-content-disposition=inline%3B+filename%3D%22car.png%22%3B+filename%2A%3DUTF-8%27%27car.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/staging\/car\/2793\/jxA2ggZ88ZSYGuaubcaTidME?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=Z6Wrtj2mA1FqR%2FSF%2BgMhbvW9o9Axl1wQHbFP82eoLctg6dR6vauAYbOdxEr%2BULsdlj7bFWk1U%2F6Q77zdbBsCO64iU8FEA1VIP48TTOpAT2s6gzogNb71iepcTR2JNMMLdl83lXOZaAg%2F45dUXODPzORgFbbsAIHB03fzeE6JniaBVzcgQbmAkoXNyjI%2FIGyMjD1vu2pX%2BcjWnl0YdcEGHnE%2FAjvnQ6%2BxlMWdinN4zg3QXvfvcbt2l%2FE9wSeW0dAa95UbyXrgefZSYbGn%2BW8Bs6TQLH1pQxtuzbbVxxYXz4FYmiTgS6%2B%2F4u2eZD6A40ItucDAsluAjU8m4UrNpbFKqg%3D%3D&response-content-disposition=inline%3B+filename%3D%22car.png%22%3B+filename%2A%3DUTF-8%27%27car.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/staging\/car\/2793\/3CyAtkaATTCRiR9woVzCDuU5?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=pPQIVxZqo9MwOTQaedH2Zd4q112GPR0KorcYJ13L6aCaUjeHqK2FPECop2WhNax3RZVhm7C8kaq%2Fb18EU2AsemZs4ro87F%2FCjbhprDNHY0y5vTQryoHZHGjJp%2F0m4GvK9UncrPcAwcCx8t2k2ClH%2FYmBC2BiQk9wfY5plOpiwmZLMNqQvfP%2FfqgJ7jgGpzBs0%2F1FTh5sGjw6LNv7ihaho8Lh0y5piZk0DOTv8g4VzWYjJ13YJVYF6vqwb06SmdJf1R947mjXOWqvBVPi61U1KfzEM%2FQBpO81dM044DDVVevYEm2PNr2kts47bTyddoYQ7L4emQxC79Dvnw6OFeB%2FtA%3D%3D&response-content-disposition=inline%3B+filename%3D%22car.png%22%3B+filename%2A%3DUTF-8%27%27car.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2793,
+            "name": "Bmw 7 Series 2018",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.61897060607869,
+            "longitude": 77.374486619344097,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Free Delivery",
+              "identifier": "free_delivery"
+            },
+            "priority": 0,
+            "weekly_price": "693.00 SR"
+          },
+          {
+            "monthly_price": "456.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.5,
+            "price": "19.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/1310\/uceLhdMLMYz1MS4iVnKB7KTR?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=fOeNng4uml3xJyobGr7DM7g80ZwN%2BGzoWFX4WmGT10nUMVIMN5Pd8QD11f0JesN0V7EIGcB8JgRcX0XpZPSNMEOE2V2%2F93FO%2FgqI6jePaypd9Bsb61BF2fAoyheOfxunCGY5SYQsXVTIa1i7WoumraKtJcaCYTIU998BGD%2FfPaY332aTPqMTheES53Fc7%2FFNzl6DGuw7lJ65e8rwkaT%2FvLscRQ07J4ni1icMygNrNa76AyL01suvEcm3H4xWX6okYa9LOQ%2FzJfQFnYb07fYEHJJEZhOlZLksh7Zo7mfkxvNwpC%2BhqE6yPpHJnSsq8GC9931RtW5nWP4wY%2FR5p5QGew%3D%3D&response-content-disposition=inline%3B+filename%3D%22m78gud9xinwowxb693nc.png%22%3B+filename%2A%3DUTF-8%27%27m78gud9xinwowxb693nc.png&response-content-type=image%2Fpng",
+              "http:\/\/res.cloudinary.com\/ejaro\/image\/upload\/v1683803592\/dev\/car\/1310\/images\/1683803578567_q77zta.jpg"
+            ],
+            "id": 1310,
+            "name": "Bentley Brooklands 2013",
+            "host_tag": {
+              "value": "Super Host",
+              "background_color": "#B10C19",
+              "text_color": "#ffffff"
+            },
+            "latitude": 28.613472796987537,
+            "longitude": 77.374005736918861,
+            "delivery_tag": {
+              "icon": "icon-pickup",
+              "label": "Pickup Only",
+              "identifier": "pickup_only"
+            },
+            "priority": 0,
+            "weekly_price": "120.00 SR"
+          },
+          {
+            "monthly_price": "2,970.00 SR",
+            "savings_tag": "",
+            "promoted": false,
+            "rating": 4.5,
+            "price": "99.00 SR",
+            "price_suffix": "\/ day",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2386\/WWhxNYt7RCJjvVoA38WUDZ7n?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=C6Pe8AVUhMjhvJy1BIiTWSoHPnfq%2BETKRXEiDsA5dNQn3Z0Lz%2FggiefjPJ4Fim4kZ08F8fRfDDd5L%2BFp2zK4mRMTj%2FyhGi17XOGXZlNMt0EOr%2BQHnMfSCpYt5ecl0YbSCklI7zul8%2BatOR7DwXNfCP1yb2k4wsdFdkieHdQX5ioYBMsLQNt0jy4QQol3%2FXMTl9Y5R72Od58Bj88nXCXXFgNGauu5mbDqIXBl06rQpLNijuMIhSmDWUGnvr92hCR33y5n%2B4Rp7AOVg2hddnVNsfoTzR4nBMT6CizdNvaGpMxJuVi3EVNgDQQXcRRvK6G8Zl1i%2F3zKsxnJzgq1VCEJZQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22ilzdjmrx9s9zvmmaphv2.jpg%22%3B+filename%2A%3DUTF-8%27%27ilzdjmrx9s9zvmmaphv2.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2386\/S6rkJ998gaZbmat82xfKSsqV?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=AKOhEr3pZP6jSSBfvWaCcZ3YANjexqpBCDxqOU6Wo9tEX7SgWbQuM62EnCpIgjPfbcDw%2BOl2gNSo%2Fs9z50SuUHhPjGIzlN7YGGSjnaugnVilhXwg4HTlG%2BZOIAQ71fZCtrmiMePh%2BLQnSbH9MBEoDe%2FfSnFBbg2pjQNxwOPeGCGAg%2FBLI0et6AqAhT1TueItVcvV43eAmJJ%2BgLFI%2Bm7eP%2Bbbhu4AeDzaY0EQv3xvLv3lMu168%2F9uDZmmT9GQaf6mZM%2BrLTKMMJ6d1%2FGL2Bi8N6l%2BPErP2vYQbEmPsCDYCfdO4M6g2HcioheH2ut0kWJkIDRbdGbStEIysuCnHJZcSQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22unrdukp1occwfuoz6dpg.png%22%3B+filename%2A%3DUTF-8%27%27unrdukp1occwfuoz6dpg.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2386,
+            "name": "Alfa Romeo 4 C Spider 2018",
+            "host_tag": null,
+            "latitude": 28.614165032477779,
+            "longitude": 77.374984551404765,
+            "delivery_tag": {
+              "icon": "icon-delivery",
+              "label": "Delivery Available",
+              "identifier": "delivery_available"
+            },
+            "priority": 0,
+            "weekly_price": "693.00 SR"
+          }
+        ]
+      },
+      {
+        "cars": [
+          {
+            "monthly_price": "4,293.00 SR",
+            "savings_tag": "Save 10%",
+            "promoted": false,
+            "rating": 5,
+            "price": "4,293.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/JwqtoGgWtjGixJH5x4faN3Mh?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=Ss2YUOxTORMAh%2FUEM0kmKQ150wRVxQ6x82Vl%2Bd1CjKE0x1RuU%2BhBUq9o9X1CUJcy9aYBqbTDe83n5D2Zi6tyGeubsqdmBPvhVN1jXkwuXzhfVzwT0VGBZFmcUzUfAwLWRduIo2HArz7A8EziFMjFI2XY99sWBwZbkeOdSE78C8jrYkebihTHGwzzTi5BVhzI06oecGwo84BVRgeb4NQaqx8KZL%2B2gTydmrCb495qKbkJlHDN7ZJFOvOtKHtSo6A10xa6Scrl3R4c1qIbBKBZyep6%2BLHKqTX9wxCo67kS8pH2C3nFV2D2MsltA8nL1%2FgypYDk%2BVGHHu0Gz51Ej57PBA%3D%3D&response-content-disposition=inline%3B+filename%3D%22vydofhs3totrpjrvuxij.png%22%3B+filename%2A%3DUTF-8%27%27vydofhs3totrpjrvuxij.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/Dx33sW1v6afxZTHXUgGEoEWP?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=tECmEvjaH1N3gBWwyI5cMKpr8v3nfHvZp%2F32m3Ciez73yzQKtYpwTkIxgHhNe5gU8uF%2F99AEpfacfKspPVg9RHPxvK9Ecm6s%2BWRYVDtt10cdlXCiWlnSCU69Dk9Ct12QFKk0Y2GPGFH1WMtHY0e6xVCbDC%2BHwbaDJIni1jPDPTVi%2BzmmbMD7oRHnz8vS%2B0%2FYebspiKMx1lKunS8bIx%2FfvaIhY71ap2uJ8b%2FW76iv%2BxOXUoPr2nUhcadbecyuP4SC%2FDqF0xXRdK643Yd89wSWMZF5MTrpFMJXAaxj5x4GxBM0iQszcvMMXoxphKnDYfieXwkifMam7Zns6nGfiVxtbw%3D%3D&response-content-disposition=inline%3B+filename%3D%22fcepsmupuwimgjcummwm.png%22%3B+filename%2A%3DUTF-8%27%27fcepsmupuwimgjcummwm.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/L1EqYHgEtH6SWiPuPSPrdwct?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=JmRSDslEGFgchOjcHVvg48hD4PM4aGySWIt8cHZKKKMIg3CFFtrQAL5wYPuMD9ObIESMNs7GMGrDrp8mY5nZlpAgM%2FpgNPc%2BJ78Eaczp5sKQPIb%2BcN%2BUapEko2K1BhB1jbKbqoPmznb34BsDmY4syWfkOenS4VkvdJjlTws33YNRjIOTYAiRLKo1Qk9%2FsXQt1kLcuUYpUgGmBvH3%2BwV80U%2FdvuXWfbpG2ajofMvDADMxnLJoyEa1ElxEqgHLQl3xMN%2Fz%2BhO7VwN40R74EcZSf6YADCDkxEtwijC79o0vpQAzd9ehalNHjdit5uRsv8LFnCW82DbOwxjt4h6hF7SNcw%3D%3D&response-content-disposition=inline%3B+filename%3D%22wr25llevghhdvgka3acb.png%22%3B+filename%2A%3DUTF-8%27%27wr25llevghhdvgka3acb.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/YYVCPYuXSUtK7QssRbBzSx5S?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=iT2kud62P1SaiB9zuO2chpOIXbHlZsaKOQStBRkmg8PbgWb2Ap4SR5IBZbzbkYS8kRCmFoHwB5d5AZkR%2BBoq%2Beo8wluA1t4%2BmH2F8XAqHDsJwMd8NHAlCNm2BArJPFK7CvtFBFq8CuhdHJ90ajjJ1se3H8nbtpbwHzbwPvzuhhskCfGEmtyt5w47EotPs3qtcFv7M%2BTu6RJH5IrtZmJmZB84Wxy5qrf7k2kReQOrjAxI%2BjFYGGPVvAVzBRW0m%2F3TaLki4SjrPwlZv1CiadRf1qAuP%2B%2F6xMB9EpghfQeUkCZmv5OGQXYkyhc9Yojj9JubJ79SlHyeeAv0gSlRrW8iqg%3D%3D&response-content-disposition=inline%3B+filename%3D%22fxgyeftzo73eskeff0hx.png%22%3B+filename%2A%3DUTF-8%27%27fxgyeftzo73eskeff0hx.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2425\/bdA4pyNoYYm8m1BgYwxUQeo8?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=HQUzLyj3Yh26QYMO%2Fu1DACgWf8a9oWRulRtb23zlXlF%2FJlOdUh%2BKOmM9l21zoqM05JXrEMjuQq0Gd6ZEHH88zoSM%2FuJ527wDpjt2i%2BHcLc9eGWqSFAmmn8OF0LEVhAx1FPosQUfjP%2BY1ACM7Q8FZtZWoZf%2BE0KXdQYl4wZAE4%2FT%2BenQMkcoTxeGemskUqSQsuJNh2JY3RioUH2bP3LrP6Flhk0fIFcXopRQwkD%2BD8uiGZfRAC9C7qT3ehGIRpUp2jHsbdwP%2BK7M3ln5eWCqFCDL3AIIVFrBto8SGqhnlQdZZXIItmsv6BPIWNFkzpiaxN6ArtkF8%2FLH8SWQeEZhiHg%3D%3D&response-content-disposition=inline%3B+filename%3D%22vncy0qm5iga0ik5ul8tp.png%22%3B+filename%2A%3DUTF-8%27%27vncy0qm5iga0ik5ul8tp.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2425,
+            "name": "Audi A5 2019",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.530653622774608,
+            "longitude": 77.403042920954988,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "1,002.00 SR"
+          },
+          {
+            "monthly_price": "1,593.00 SR",
+            "savings_tag": "Save 10%",
+            "promoted": false,
+            "rating": 5,
+            "price": "1,593.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/fNjr4aJKchUxQcVys41P7Uwi?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=j0ZY6NZNbikeK4EaGnk8lPxzLSZoy%2FrcmGkwu%2Fno6ibiizrBsrnKTAwnVIW6NYKliU0UzEH88OsWHnxMzCJbmoXVojUHpUHM6lHnUBOovXyGpD%2FDgopxB2Wou0i5ZBfnZFAIr%2FTrNjmOQ4cigSd6ni%2FnmqJdHch%2Fb2SWmw86vINHdj%2BzZrn7eIFS6Y4d5oGpFqdbPcjjArvfRdqiK%2F10pVCUb08PKEWP6O9cqBUY5Fw2cKCiwD4sOjoo5E6eRLSxvlBu2srZmVSaC6fYZ4RMNmMQuQwOfoeI8wHEDcOtxl%2BVfDmnqv6OcK%2BOJE6GvkYWpZjy99gNRgFOrXeGA4YpxQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22sixuvazrkzfhngdz5ed0.jpg%22%3B+filename%2A%3DUTF-8%27%27sixuvazrkzfhngdz5ed0.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/jAkjtX6q8eHx49xwXHuLXsEn?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=kreEd8ARN5pj5P44l8anlcZ%2F1SdPz1RV%2BI5Y69siNTpsxQ9FBR08w3Gh3p8ibYFAit9AiGhbNI9OrUfgF3fgKxZTqVAyUMfSO6gy4svUeQIFrnHOPyf7ZV32P9qlOeYcFgpZYUZzqYujPJjtV4zsFQpyE9V2QPme9iYPElgkTRQUBdihTUElirYT3Of2PpcUE6j4L0O5h58pf3uiOaFT8ItIPmQjHexRvjBW7YcCJFxs0EYJr7hnzmjSLrZBysuNaND8QVGc7J1eiMfmdj5zPNVrfHtxfCToLd1dAOjJSnl%2FBrI74zhJN0rNfNXgBNuAqOXMCDmLjvdQkBNtA3%2FEDA%3D%3D&response-content-disposition=inline%3B+filename%3D%22rdoidh9ypxpm2isvcd8h.jpg%22%3B+filename%2A%3DUTF-8%27%27rdoidh9ypxpm2isvcd8h.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/NR6ksUX12WqUGzQrVe9xjLLk?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=b%2FtCtebu9AmRWvrjZJTb%2BqbdtC0EpScX9P6uqMYGMqqooRuTs3AR2E6%2FOSD1XIOexRXGHawg1Mqwx3K4MPFJjQkl5KehdJag2ybPrlgCd6ZDYKdhQEyn7z%2BOucm4MWUen%2FE6pfwl9yP7FNKa4tMrXaKDrGh%2BxXye5ZiAA3dtYMOaMSonAX1b8Gca34htLnt2HULcjDXuGpKd3HZLFXzCaL9dhivXY22SjSowHyf3y%2B2RRtPce8Im3hY1Ow37aDGzBzZm6itckW1XKZLMKIGeG1oO0cTRlKh8nhjxYENa8lzDv2YGRSI4LA2lgYHokdULTbxkieNOOfkvjNo%2FNTfA9g%3D%3D&response-content-disposition=inline%3B+filename%3D%22ncfdxxml3sclv7vuuqc3.jpg%22%3B+filename%2A%3DUTF-8%27%27ncfdxxml3sclv7vuuqc3.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/9irFCnhWBSxZSrq1KtGfAmfn?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=bu16DfG5d%2FxwOgMg4gVDDtE%2F3fmT%2BIiBW4%2BHLnKTvaJ4GEwspiwDF8IthCUA3XgaQGOC%2BFX5uFOE21SytqbzQP2WQTWE3op01x62i0kBhjrxn%2FFiTQgAhngOxaaFg%2FCzo9%2FequZAOfRQ3fNe2zmToNuZbnpHAV%2Fq1rCaCE%2BA9GHSvSYYzhHVtvGfY27IYlcUJTipYizMC47qq3Jdi%2ByMO2mcHT%2FdDMVavA7nH3A9gl5cZwGLfPFDXrPfmahpqV3N7eV5bztRhteNGBx%2BiFxDLaVn9xuGdupfjRTpCFS7iZGUcPYE7quz7BnyighqCMh7afwW2NAQ535RVuP0xg48Ag%3D%3D&response-content-disposition=inline%3B+filename%3D%22zhlgliz6ugcy9sh3ggxz.jpg%22%3B+filename%2A%3DUTF-8%27%27zhlgliz6ugcy9sh3ggxz.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2052\/mZFRVyoFpEG1WbeD6yUygmSo?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=ECvNItRFa8F50d1vDVAaHI9sytRv8NNjvAtJZOG0UY5GCv1hwsXNtw8kIlUkT1OLDL0xk2X4QgJevzDz9cRVKYdkAXnLUYK%2BedV%2Bu0ZwNgupxECocBXOXCh9nQLeplljSNn1hSsbXR4yFhe7UA%2BkeqwAMHGOuFtxjS2o01eoiyNYFEO%2FS8TvXYjA%2Be%2B5YAVCPsP5lfAMpBO9CR4VGK9CM7aSQXmYtokjWJ0KT1X2EYkwkiNXDGvY3VbitOdXGM9d6af8CG08W7CV%2FKHLqKyUv3wapdRtvHBCk6xVSnLR246kzhnMosKZRHQr0dj4KfwIgc11XwkqQOa6iPpWdmtqUA%3D%3D&response-content-disposition=inline%3B+filename%3D%22evfhsukfq5diqbqhehys.png%22%3B+filename%2A%3DUTF-8%27%27evfhsukfq5diqbqhehys.png&response-content-type=image%2Fpng"
+            ],
+            "id": 2052,
+            "name": "Am General Hummer 2016",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.563593014344143,
+            "longitude": 77.445304064643423,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "393.00 SR"
+          },
+          {
+            "monthly_price": "4,165.00 SR",
+            "savings_tag": "Save 0%",
+            "promoted": false,
+            "rating": 4.0999999999999996,
+            "price": "4,165.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/H9YupkoXCLyQHNDM9jdBHXiF?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=FUrz8cTzs%2BSNorIDWsjXdDlUCcxQZoP%2B2l%2FQvYXLjgBv%2BOqYeoOaP6c%2BThC2l%2BBSaVFRUIMLEMMBrwsFMJumkbuV8ulH8l9TGsPH1udo7N6cxHfPQIEwE5PpOC7o6RS3lw6GmQgh3qE34KCWHKN4IPxj33Hy%2FnTzmPXGr0f3vJ5UmSTYyP3OuIxXdyVgLGypZza%2Fixx5cSPcgG2EvUanTnqKVz1EdZp0Uk0dv1g4FkdfP2vrDKSsAK3x9pPT5gNZJMMtnS2dixHjC1pJJqNj6WcOzioPTALNU3uariCNfmpnOsnvV82X5tgg2X0R6Pa7UtRiXaTjPJj0ccU4seBj1A%3D%3D&response-content-disposition=inline%3B+filename%3D%22q9xym3gsl1r2sbwtspsf.jpg%22%3B+filename%2A%3DUTF-8%27%27q9xym3gsl1r2sbwtspsf.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/fdPG6HpXqKb5tNMohi4oppk6?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=djAfkmhtGcYyhTNTVXsrV2wOZbg9C6Ub6gvTlhbkESMJOJWO94e4EOfIn6DajcJEYJeM91R2cXDT%2BIuAjNL1Hj7SLWfdXHIB%2FoxAve5GBKFMAzf%2B9U0bV8B7K52y4R6GNKqJUWt1Rylcjcx%2FlghP53NsKMC3Vl6F%2BXXVLHTKS0vFXjA9sRDnPfzZKmlQJLGf%2FvqW%2FqfdnPl78bI4uiXlmFr60Cp3kuxRgVhxXoG62hV%2BTEMoeS8ObwvTTEtITAQiJMsFqHvlWI4vSKH7JfwnFf123U%2BHBIXmmW6hQ2YoRifg0156Z49RU2NYPivHcDtTphyFCsiZLiOWhII6jMcbsA%3D%3D&response-content-disposition=inline%3B+filename%3D%221638729176227_bmy7dz.jpg%22%3B+filename%2A%3DUTF-8%27%271638729176227_bmy7dz.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/cVY53xwRkYzNsyYG9uHZXwQJ?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=BhmlJXTqSypj%2B582c0UJc3phcy5VsvREkjXm%2FFkCf951dvYPAg7BPOFHPKtOvlyCAzQykqmcozr%2FVb6zl4l3fhKTSlY%2FaAm%2BeyrU5NLjbHWyaTZAg2jGG9iuFvn%2B2GXwAPLOIbleTKC5jtTqIIPLqkNKblfA3NM9E3FFH%2FiKD4QzaCwhzaXwNlpVj6B3oa0bkB%2FBripPjQ2%2B8ONgS%2BgTUyD7birIHAF0O9JT0V%2FS3A8OWojVTf%2Fev35OC8BXprf84ZpJKRD567yf3on8D9tf2zPk9Lv9hsEd3ElBdRKvsmjX4Pf8QMpXtbuME9f3K0SnF0kobWRwv2xrzVY59MrA%2Fw%3D%3D&response-content-disposition=inline%3B+filename%3D%221647942566939_qjbjs2.jpg%22%3B+filename%2A%3DUTF-8%27%271647942566939_qjbjs2.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/QbPFpW1CLnMQnmssVgeFt28f?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=TnZAzaszT6WTKKIQw4Io1uVG%2FOPveFQ4NRuFIE2KYZWjFgaAKhHwTrO5JSPVvIOpopyTu9kn9NYPrqYPnKHoSSlwvHHbpaF7ac4aLn%2B4OWzqlO1ooPILImyykhn0fvFo84bydtwGR0%2B2zkfmCY8hnxSvC7zR9GHlWZoEhY3K%2FIArvJpckV%2FmF1Iq2WXdwk2bI%2FrJVnbcCptilRXxPl9ITVRF0D%2FE2WlYZKfSkcir8C6ElzsIoGGOTfLiB9JMSxj4MjiBULYdleBd6w1x07p226fNq0%2BdZLm%2FdrQ2pvNLwLFr15iEeEj%2B%2B19cchaqEUCN3oZ07Ge1qcRvN3b4DJahYg%3D%3D&response-content-disposition=inline%3B+filename%3D%221635762368666_qocz1o.jpg%22%3B+filename%2A%3DUTF-8%27%271635762368666_qocz1o.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2266\/GNTUsdUCqFihujLyz6GNUJ2k?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=FYGqxif4TO3EY%2BwhpTTYIgPc%2F2cGRvrBZBjVazu1oHh17rFH4tmozJOnq3epGAyRlBgebXDqzqBeSCcB4Vl%2F5y%2F2aNDfSGs919D%2F7o77tOSYmDPWckiGbo0DqTWOnU06HQjbMzEPDrIapnxk%2Blh11osTGBGOtmJTWok733VZktJ7wj1Bq6R3uFHT%2FqyXDOPT8dl9%2FAmCyw6zK1v3v5HhrwSCcKE4XIk4rtnowl4GA3dmjHve9SZ58ot8vzd4cugMwCKnUxhKaOZ9lJiYOin7%2FLMfitWSwBSsv40u6%2FLhXS4k4MsVUlr3L4WWBnUwu0lnNsONZI21mN2v9REmT8EmRA%3D%3D&response-content-disposition=inline%3B+filename%3D%22o2cudcxijaidzoi0ao8n.jpg%22%3B+filename%2A%3DUTF-8%27%27o2cudcxijaidzoi0ao8n.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2266,
+            "name": "Aston Martin V12 Vanquish 2018",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.599505304779331,
+            "longitude": 77.367747403277562,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "777.00 SR"
+          },
+          {
+            "monthly_price": "1,200.00 SR",
+            "savings_tag": "Save 20%",
+            "promoted": false,
+            "rating": 4.7000000000000002,
+            "price": "1,200.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/mUC6xHdLsQYt9iWdeqWW5uRM?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=Za%2BZi8SSOpWXXV8rROqwymzSEfeL3G%2BxPQ8HGaY8PQCAGV42SOVTogk29IMaWAobyapL5Txm2apwWOB9mwDnFwju3hn7N53eC27VCOfsrHbf1GO1mNaB%2BtNDG1pX6RLA0Q5HNB3xRQ4fzBCdXuNsBRkPzRuhFMiCsjTT7hUJk2FflYaVPOzUu3vVdiif1ph6xesAw7nCb0gd6yXy0L3zqTP%2FpMN9KyRM86t%2B6WxL6ymgSRaPaLBkqa0mqZfYX2D9JUVTtDbRx%2FojlPtZAQDI2g28P0iKpULbSaMzGfRrCxfoAORD0vGiA467BRwXg3az5FtmZecl3PLf3ImVIUI%2Bbg%3D%3D&response-content-disposition=inline%3B+filename%3D%22drnzps4553mkm7u3dwod.jpg%22%3B+filename%2A%3DUTF-8%27%27drnzps4553mkm7u3dwod.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/xrCyu3nr3r8MmReBGxeXwCKT?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=iAVFoCqY1MYaDgn8HZueZAi0dtyvMkplwGKzoDgBteseFMN45O%2BrLKC%2FUpKsd88go0IUBJxfYWJUq1pmCpDnHWziTeQUPgLLHje6ra4NGw3HIofi78MpO3c4J7vJIH9hzxxFFN9UrvMkVsKQ8PJdDiuxc2WeE4SHjIufQSn0bQ24IrJ7cuwlWZbGsSh8uE6R3epVAVrUbHj9sZ9fV20P9L1PKnHQfgSOzVeYfXHIILbHlRxqMu%2F2c2CWirUKsWHRzcaZNGQMvvbcnbhopILuds4BUoHsP5XaFJrtWOG%2Bhz%2B%2BoGHIjnU3xwkTHZ8dleVF2bjU%2FQ508P8%2F2PODuj7GLg%3D%3D&response-content-disposition=inline%3B+filename%3D%22sjzxddnr8vr9ehtr48w4.jpg%22%3B+filename%2A%3DUTF-8%27%27sjzxddnr8vr9ehtr48w4.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/PvPaofu6n4KAU3zrtnu9wFYS?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=IgwhARIWoXwxK6cDPPv6xMf%2FDF45WbRtKul8lR5cTEdVccXiUPaJFIV1mtv389goRhUUPtjVHkudT3zxxbPCm%2F0K5%2FEe%2BXYNxo0W%2FHXBsTS%2B8gdtb6B7bIIrjZz0MRVE2rv9Eeeyz0WQnwQIHVIeB0YQKc8rDkuwgjlzb2VR7ig4MvCEhET%2B0bi8VOnFYLeWLxS5KRk5XV5iqEmBtsqnmBAUXKm5MEXntDPhz%2Fjg%2BcvRiPzpNLPCI9fgpVBjLXDxwOB%2FcqM%2Ba4g6l0tO7kACdTczfFLExtNSedsXI4%2F3KEgwh1tMQi8nRMr%2Bsj9Amkp3tRlrwIjXd4PXf8SBMdgKLg%3D%3D&response-content-disposition=inline%3B+filename%3D%221665557585521_klqohs.jpg%22%3B+filename%2A%3DUTF-8%27%271665557585521_klqohs.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2046\/9xuvtnfoZT7jQKxThVuzsDsP?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=aN%2BPt89KVbDDx7YRRYQYHzKfuIa4hdYrZ%2BXdeUdX6a7X%2F6mWVLb5Tz5%2FjDVlBikp0zg89gjPIKmJPblnAPLTnQG%2F9H6J3%2B7v4x9MVqMQ0ISI8t%2F7dZ5HSchxQowzPxOaQdoF%2BzletBqMylCCZeGmEqy2Tke1agb6IIWCRpUlc6P3c8Fjes0fL8aQz2s8y0Nf0Kid44q374c7QcKHUDcsp6nACgIQoeEamdpisR56Vy9Mlw6qz7ygOEZKPXpN6xugk1IjO699JwZQ93kAQdmmP0DhKhfBRwHotNqAMSq8P8WxZN9M2wnmZ5Xq4k%2Fc0FiiCRoXT%2BXkhgaGXVxcWSByBg%3D%3D&response-content-disposition=inline%3B+filename%3D%221654847285698_t7ct1z.jpg%22%3B+filename%2A%3DUTF-8%27%271654847285698_t7ct1z.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2046,
+            "name": "Aston Martin Db9 Gt 2020",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.613762784053797,
+            "longitude": 77.366355536138641,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "70.00 SR"
+          },
+          {
+            "monthly_price": "2,856.00 SR",
+            "savings_tag": "Save 20%",
+            "promoted": false,
+            "rating": 5,
+            "price": "2,856.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/iFxhPvfTmcbRkEuiauEfCEq3?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=rAy6wzKhl6MYT8LVCLbzqxSEGaaOUjIi%2Bpk3ISCtaayPqFw1tn3Kn03Xn5RsKrB4o%2F1E8OLorEpzaaaCMbh1iiIIWebrGpfMw1XvcoY3GSrdc7XtCNnZv%2B%2BsNz5ZulCA1oTxqbDrZXXthd3fAyp%2FUr%2FZEAx1GoXdty9oBDzwmCQivmR1Lj1ZGmebTxpRPNmBtG2CSXAxkzZ6kOIj%2BBuilasWB1ZXUHSmOncrGkrImlUxxIa97WThobhRFcVvbzj2fpTCUA1TA2mDorHJpEJA0KeMYDmVMzjMZDa1vEmYO7CdGcPeqY6Geiojaym2Oy6W5iWQq64nrJupxyP0AE3hLg%3D%3D&response-content-disposition=inline%3B+filename%3D%22umb6k4uob8odw5rbp2im.jpg%22%3B+filename%2A%3DUTF-8%27%27umb6k4uob8odw5rbp2im.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/a6Waz7LH5YVxqJeabFNGowjF?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=KtMWZBc3OB%2FldGKBcWzIUCOnQ5Z25QOI1sNM%2BdG8COmIQ7OAGgu0pcWrirKQ9BtIhs256HJ4NO7LITzBw4rkUmvm4ei6ebjiNUBtlLO2ZI7e%2BNTEyIoUUq9g4FA1%2B%2FiKsTq8ER41g0Nwx3DrdODwaFc37548oHyAwnGEWS1Hmq9uLdFGb6ZCCikH33yk3zn0f1xewjtNPeOn%2Fo0jc3dQiaWG%2FJQzk9lQSCliaT3aAKxU2fYjYo8hBrvVCkJj8lw73zrYbCb6NkMQ%2BSM6mIEpbt%2FcTPA%2FlQisSdtGQMkhlW2%2FY53MOc9pqt%2BIYs3hHpy52%2FuLoR7ZFFDGR%2F%2FOGHWeZQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22rvlpmxrskhvoq6tlummm.jpg%22%3B+filename%2A%3DUTF-8%27%27rvlpmxrskhvoq6tlummm.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/sPtVJPXLKokgTEtXHjQfmQ13?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=JrCp%2FHIhH32FMWeYRd9a137B8oM1UDq4VxzsJe1zHgAHWBQgnUvSO%2Bm9R99WhC4vRk4x0G3wr%2BLaFMLURk5IJ%2F9GOiGWB1xJQczWE%2Bn9osrgEbnkjSGIY3s8GRXXyXyrZIbt9uA4BzI%2BzvTVMaZX4lRrgUEqEF9Iqvdrw8pBVK%2BsfFVBmA1cvvBuZHCe8sXdP99lgVVc%2FZsfo8qLoYHStGRZDg44FSnnBcUERXAeT5taqA%2BzloQZJiC2vVtElrXzMEdqLfY1SMgmMzAGIs2bUI0mjN0Fg%2BZiigbtXIHlwJcXeXhDZ0D87D%2BRo6dAeGq%2F7%2BHR02S%2BeO%2Fg3XfjDj1h8Q%3D%3D&response-content-disposition=inline%3B+filename%3D%22uvwyvscvo7kn2xxrzwvm.jpg%22%3B+filename%2A%3DUTF-8%27%27uvwyvscvo7kn2xxrzwvm.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2160\/eyuWukdJrg6J6CkiM7L7FD4t?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=I3lsaD8grrQze9lOAjKuejqw72GgftoSriiO3jK%2BJHocs8%2FvsEmoiZNk2b6CFFia2CHwLqwjK7%2FcfgF3bHL4DPntH1tnlEDwsFVrHn3cwKSb1zYPUqMwrV57g%2BSF4rpB%2BrFonl5%2BvihQ8htSRA6xq2cLK1EuTTDxUcLCC2Z2QKtclHrwcYtDm38xYrbSIuinqfoTcah7Zu0ASLetwkmsyLYScMhQvSbw%2F5Yg5VIA7tgMDPH7Sv9G6uREM2q285DV8gN420Oin6CepS31d%2F8jxRLSobQCoazaEaS%2BZpP4RGO2b7c0EBPAPvE4y9MNsG4HRqJ6tbvJM%2B5LFfu8w6DxaA%3D%3D&response-content-disposition=inline%3B+filename%3D%22inyzylm3jqzpqadctuxi.jpg%22%3B+filename%2A%3DUTF-8%27%27inyzylm3jqzpqadctuxi.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2160\/ttqQyu2Mhszzxpssn77ZGx9F?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=EhEuBXj2RrypZgAQrzKN7G1X2y5O23mxio0lLRt0raV%2By%2FsQH5o9Tt6T0bPFvipXs3SpVeynGwIsGNehsXD4UKUiKwYW7E%2BJHFEsaSw%2BjM3FQBshv94No5SVWCScn1crQZ6TzvhRpecwbO9BWX1aaBwpuZ%2BrHNmbnpMPrRumc4EZoy8caU%2FQN9P1TKpPCk6QXdmudC4gB45MizldMZd29KzkrhIxo4rq%2BmPW8UK4WUxrtOY5x5BQ%2Fwms9algcut6lqbcxCHZFnuY8hrUBEySrQQrLyg0y%2FaAnKbEugHBVcso0FFFkfY1jCMCDccSvYF%2BK7Iz1D7s8%2Fak%2B79ovSdwqg%3D%3D&response-content-disposition=inline%3B+filename%3D%225EE71D07-C217-4FB4-A37E-64476FE4FE47.jpg%22%3B+filename%2A%3DUTF-8%27%275EE71D07-C217-4FB4-A37E-64476FE4FE47.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2160,
+            "name": "Mazda Mazda2 2019",
+            "host_tag": null,
+            "latitude": 28.608320094982908,
+            "longitude": 77.372558834345583,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "750.00 SR"
+          },
+          {
+            "monthly_price": "2,451.00 SR",
+            "savings_tag": "Save 21%",
+            "promoted": false,
+            "rating": 4.9000000000000004,
+            "price": "2,451.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/MX86FRtLMZBNnVH9L1xjhixx?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=DBrtwk8zkWXuzvnnBfcs0fVcja44oTzE1PieKVDBtwuA21bQg%2BtIxCBID2%2BJ6WbmeQbeC3ThDZEQ22zKOTwLCNcVpFLX2%2F6WWm17kdM9ZpWLtEzD5rUk6LPnRgLhHRMUaBS37fhoT6m4u%2FZkmhfKxQZiOLFbJhYqyqCCfQrfMVSxCohEPJVlyjli5up%2B0RNZoQ9ucbP%2FbXXdnCVyo%2B4PIk152a5HyJuDEbKCEWND7H3J8CCFdeYOgZOuejdRHBHTE2pfJ37Nh8o6uXnNdN9JKS8ACnwckoLB%2FFrh4XMzo%2F1gYO2muBR5SwIYyvNRtYsf%2FggVwuXmp9d5h4jJ6hyLUA%3D%3D&response-content-disposition=inline%3B+filename%3D%22cevqejbejpgpyybrqv1m.png%22%3B+filename%2A%3DUTF-8%27%27cevqejbejpgpyybrqv1m.png&response-content-type=image%2Fpng",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/iCHJNF7FzCbdbbzSyibRXfgd?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=WDyeTYHr2SWEQh8U8jUaL4wYm36LN%2F5lUm1f2J%2F%2F%2Bq4yWIkm7KxK%2FjSi3Jep6cTID3F72r%2B2FrSWl%2F6r%2F7c0CMnbpZp178XFTXQ1P69idbyPPy4yH5%2FnVopD3f9lW71wEbDJEreKHz0PfCw0Zm1SzwfI0HjX5bk2PJmpTJKJsJJyHIa1Cr%2F7JAQ0aXDukabZK6TkGaHYOoBMdB4GG%2Bq7ly84YibWMrNZK9YWD8NF4Bt3Fa47JKcxAvfex6GYPb2Ei4LQAn8XcPIrwS%2FqsVUrbTX9KXJthNZQjscZ50ijUYyzHLQM9NhEJsMOVSer7hSGazrzQ9%2BcmwGN5xNt2OgU7Q%3D%3D&response-content-disposition=inline%3B+filename%3D%22ed1kdeai09ubx3udcldj.jpg%22%3B+filename%2A%3DUTF-8%27%27ed1kdeai09ubx3udcldj.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/e1yXMxhmedVYzF7QForCB6EU?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=K%2BIScoO4aKkvidW0fNeq73InKF%2F9IWBEA9u0OSQx7vKDfIxtDBaeSxSKMyMJmlfIA3ybYqy3hMaCSLlstfOqsk4OpVKeJCGRYudGBxttLhC2FdHKXNktnK7T%2BD%2FoFmdepBPyhcFRZHpSFNHpvH9oOoXW6faVuDbkgjECZ9EKg4%2FMrt8YylLMkPC6IbY%2FIkp%2FTFdA3SqUKRtKGZpXyXDXsipMxWwHAvX0tvmVWUIzbZ9%2BozP6NiBdWTnAJiggxxfM8ctcAQ6ngDCIdae7Adf3JBx2DBpb1MFtgfJBxLpDLqv3lBZHStLKuWLQGAUIWPY8KDDYWXM1SKWpcSfCbAxR9g%3D%3D&response-content-disposition=inline%3B+filename%3D%22zsk6zmjtdzgpl4mexggt.jpg%22%3B+filename%2A%3DUTF-8%27%27zsk6zmjtdzgpl4mexggt.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2253\/eXjmyXVgCXZgpMoDH8B9CSvL?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=aWvUWjwztVlAsoa266Reaa7uhafpeJLJRh6q1LPSY8kzliRur8q7eqy2EV4vzlkX82GMf5XxPGnGjgkq%2FVRIJRA%2BYfeGBr4gt9YCX6qIQC82hJBi%2Bemn%2BSeLv2zyUD9zQ7mvDVxeMcLEnsBNVJMRWQ%2B9FXKoy%2FO5rdU1OSYkPgNRsxWhW%2FYXE0UTZ%2Bka1CgKhaXZszV6tND2XyVuLlD4k9GI4dzkaNl4uzxxivDyvn5i%2B2OEMwIwJ52lKRox%2FCE%2FuFZD2UVp20nV3Tf%2F1E0xsOBeKU4zbEPmOfOzSCn25S0jmTBTX7%2BdON3uGHOo2c4uyQwjjk%2FkhZeZYB6RWyF7BQ%3D%3D&response-content-disposition=inline%3B+filename%3D%221641816250103_sdg4zt.jpg%22%3B+filename%2A%3DUTF-8%27%271641816250103_sdg4zt.jpg&response-content-type=image%2Fjpeg",
+              ""
+            ],
+            "id": 2253,
+            "name": "Cadillac Ats V 2016",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.620181277448896,
+            "longitude": 77.379866281317788,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "639.00 SR"
+          },
+          {
+            "monthly_price": "456.00 SR",
+            "savings_tag": "Save 20%",
+            "promoted": false,
+            "rating": 4.5,
+            "price": "456.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/1310\/uceLhdMLMYz1MS4iVnKB7KTR?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=fOeNng4uml3xJyobGr7DM7g80ZwN%2BGzoWFX4WmGT10nUMVIMN5Pd8QD11f0JesN0V7EIGcB8JgRcX0XpZPSNMEOE2V2%2F93FO%2FgqI6jePaypd9Bsb61BF2fAoyheOfxunCGY5SYQsXVTIa1i7WoumraKtJcaCYTIU998BGD%2FfPaY332aTPqMTheES53Fc7%2FFNzl6DGuw7lJ65e8rwkaT%2FvLscRQ07J4ni1icMygNrNa76AyL01suvEcm3H4xWX6okYa9LOQ%2FzJfQFnYb07fYEHJJEZhOlZLksh7Zo7mfkxvNwpC%2BhqE6yPpHJnSsq8GC9931RtW5nWP4wY%2FR5p5QGew%3D%3D&response-content-disposition=inline%3B+filename%3D%22m78gud9xinwowxb693nc.png%22%3B+filename%2A%3DUTF-8%27%27m78gud9xinwowxb693nc.png&response-content-type=image%2Fpng",
+              "http:\/\/res.cloudinary.com\/ejaro\/image\/upload\/v1683803592\/dev\/car\/1310\/images\/1683803578567_q77zta.jpg"
+            ],
+            "id": 1310,
+            "name": "Bentley Brooklands 2013",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.613410462794981,
+            "longitude": 77.374265990165327,
+            "delivery_tag": {
+              "identifier": "pickup_only",
+              "icon": "icon-pickup",
+              "label": "Pickup Only"
+            },
+            "priority": 0,
+            "weekly_price": "120.00 SR"
+          },
+          {
+            "monthly_price": "2,856.00 SR",
+            "savings_tag": "Save 20%",
+            "promoted": false,
+            "rating": 5,
+            "price": "2,856.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/development\/car\/2306\/xTodvkazH8gm8zjKYeSugr8P?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=eEXhd7i4oA1vJyHRbjff49VWFAv279Sl7NIrVuvBL7jgCLPJBnsu0HWitk0JoNCBnF3qr7p3X8oTl358QQglc6YiT%2FO5vfmLleTAtUd9Hc0BFWiD7LxbiRee3a7gAFTZLmtgKLU%2B0JY9W8%2BE%2BZmOUkaRPYiyuN0zE9OS4tJVGjtK6CBn2Ead5Iw7RxhGNN36I%2FnUT50LfsW84Kiqj5KT4fK0ZDp%2Fz81nZ%2BcouR1XMb9XwZ%2Bc6L3PQSazzgPwLJXupOBHCcSJPN0AIsn9ywEx%2B9lB1vV2i0pUn5b2h7TNA3MLMhsKOqwrsLPneHrusBkeByQVBFONgoZbIYh4nWxDfQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22qs94cphksrkv8dfdyhf4.jpg%22%3B+filename%2A%3DUTF-8%27%27qs94cphksrkv8dfdyhf4.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2306\/C6oBgr7U9A4T3H1Xe7TdSoWS?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=gPNxVF0z%2BgQ3d5A9pamP4bSqLUz0xTUHATTRaDhD5UViAylgfgRgqVe78AbGJnAyxhj9EupoaUut5h89KmlyUAf8vf1Ob6bbdGjLxciIdLtJ0KHE1dAgF2xyKgeXPVN7XgdrDcJqAYAZEYIFnUYBIgy064Q6EfcMRQjGDVL6%2BycsYvC09xyUoO4WaHwn0T5gMB%2Bzbeae84VY7YOy3XZu%2FEgksWa8W6DUvQx5jOSWI6fye18jpjggfjmf33ZyR4JTCsY0hi8xQH44JZ%2FmMeuGeU%2FuRJdPAYJYXsCFBa%2BUqc0PuWjLuv9b6Cc%2BBWg4LEh%2BnvE06I9jtsEUA1j1b626IQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22kypret9sgi16am77ytsp.jpg%22%3B+filename%2A%3DUTF-8%27%27kypret9sgi16am77ytsp.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2306\/8NgVRDbPu4P6ABdHC2aGRF1Y?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=iEXoCyMYzO2gAm5vQdVVdF5OSyk9lEhCds16oCL59ClhRAQr%2BsdYVB5I79dZ2kUj4cYsBR%2FneMz9cmZgikShL0WAMD1PMOR4SJXnAJYQnecpUwcVjMS8fJlWneUocOSCUmG7i%2Fo0%2Fq%2FxpSlVQ84NLVCtOQWPCp3Pgavr6T5Z7poVb%2FJcw5%2Fmv9I62g7Uyd1TTQWnAqrAtYU1BgiHr2KUxnJ0z3cyv4a8PLYrnmqiZ%2FCxShgCdvmRfXPpMdiypK3r%2BEk6UtfXY2xHSuYG39bSwhP0mSrB9r%2BSkguEHOCsa4e%2FV1kIU4SChhrkt6EYNemDnGzGn44g5QXXmd1EOkudHg%3D%3D&response-content-disposition=inline%3B+filename%3D%22ksxr0mimkq7c1gcbsyfr.jpg%22%3B+filename%2A%3DUTF-8%27%27ksxr0mimkq7c1gcbsyfr.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/development\/car\/2306\/Rr9Asjz3ZuABzT97FfHVWstW?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=dAPvowqLsB4EhZc%2FXGhrCYMXumRUiE5KoSizqo3wIOWceJJOJ7F%2Fn%2BwSgDnE5%2BwUeoOq9Go9zQ3OlYMShAEVBRs25T1m1Bq4nynMwylDfDWXcRD90FOWvO6mu%2FD0PuK08kSSBK%2F3%2BUIMkQrHPvYxwOMSoVUkdIez5rfx%2BNHCCDWONW0FAN1KnY%2FzYlkNYZj4XRjxv5NVjAzx6%2BLkpLR0h16tFmUV3x80Uk%2F2eAEWFe4YDRYNDS9PBdM7V2%2BLsAY7TLCOy%2B%2FKX%2BAzVBmQdHlccYrlPnDJoax5Lhnzj5CnQe%2BHOghDX0Kj2973cV%2FTwu2pYYWbAEQPihjEP%2F6rYqkOnQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22spwszgs5izmtm5z0lvtk.jpg%22%3B+filename%2A%3DUTF-8%27%27spwszgs5izmtm5z0lvtk.jpg&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2306,
+            "name": "Buick Envision 2019",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.613581633517491,
+            "longitude": 77.374222252331293,
+            "delivery_tag": {
+              "identifier": "pickup_only",
+              "icon": "icon-pickup",
+              "label": "Pickup Only"
+            },
+            "priority": 0,
+            "weekly_price": "750.00 SR"
+          },
+          {
+            "monthly_price": "936.00 SR",
+            "savings_tag": "Save 20%",
+            "promoted": false,
+            "rating": 4.5,
+            "price": "936.00 SR",
+            "price_suffix": "\/ month",
+            "favorite": false,
+            "images": [
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2195\/VZKsE9gDEZq3CeSf1GPChwhw?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=aSMy2kaLlkCMmF9spHiW4UwbfIH%2F7KicoQkbMv5dew2jq4vDfCC1puksZVT5iA1S88jGt8ICYlRhmSWYHnbNpLXjFWbA5JiFBN3eOhWcqlHhOvauWFt%2BPgMDWfH9x12axoASw%2BVWLL567m48kHPTNPZpBvYq9PlPPyj7CozJYk9wRmN9iVfUmPfgfOpjdne1vz3ybFidTD7JS7XTKHzMC6%2BYggrGsr%2BJ02sfjr9zbDX24DuUqEfoFK8hfomkvRXwD6rcjctCpuE4i%2BAHj1X%2B2gqPICAJvNdFW0ffTMI7jtbsDWl5FX3%2FM2eLuNc1rAeCqycDCDOPnk3%2BSL0mI00Gew%3D%3D&response-content-disposition=inline%3B+filename%3D%22ct4aaz72gzwbdcoqhvny.jpg%22%3B+filename%2A%3DUTF-8%27%27ct4aaz72gzwbdcoqhvny.jpg&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2195\/YXM8LihFyMuB9CpdaXMm7a9U?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=UpTaJwZOFbN4M8C%2FSA0AOpv1NyPgpBTv7GRf141e3SM%2Bi9khu7gCEa2gU5qQ9P98OQskY742KcCopLimCgOkP%2FUJ0wFyuDlbuY0eJOVcmMjmtUuZvOSsTWvNovIDlJ%2B79eqSsm1ZeCR6zGjl0WgprzhuF%2FnS3jRpAppf1k7UUE5ppecKqw%2BLobT9asyVF%2BhrSP0Bsp564avJFSl%2BfdFIpF3JM1QH3jCrDghuPyWWcitsrRKgeqqcMaQ7t%2BIVIA88K8vuIfgVlRv%2BhSvXr9WW0VtapGoSM%2B%2FTR8vtObp4jR4YPLN74feGGWk2l9G%2BLD%2FB402zfdMZuGKRmZBiJBXgLQ%3D%3D&response-content-disposition=inline%3B+filename%3D%227zTEtVGamjhCCuXNxX5s6zJj%22%3B+filename%2A%3DUTF-8%27%277zTEtVGamjhCCuXNxX5s6zJj&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2195\/hcgtf7NZKkV1uar2s8hUezz8?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=OsIoFkAlFPIsJasr%2FzJXs7mwtjHV26HuJ%2FYqhLFq%2FHnt3djLYuzRIb%2Bigqh9k%2BYYS74vudWYkdF0vNExAa57K2h%2F2pS8L8fgEO%2Bj0bfNvVZFnUQJiG8A7Ca3p%2FeZCbJmEXuS4SJ%2FlDH7l4alZwtCKT37hIcoHYwJ3oxJDCOrhdRmpRmGRRJczV3ggsxkGO2eENP9iyX3oQh081PBJlMt0ScvQ4WQULXU77r3j5tZSfg%2B0X6VjCSBwGPqNtHa9wxpwAKSDsjaeNpVWtsCOqKf7cP5jr%2BcoptdjY3sKM7d7VLAu%2BC2jptgrj2FhDnEGPJrEWifzhqEfDKcVkv%2FrnLBxg%3D%3D&response-content-disposition=inline%3B+filename%3D%22ddwMh39yx5qbjU3FKyS7q6NJ%22%3B+filename%2A%3DUTF-8%27%27ddwMh39yx5qbjU3FKyS7q6NJ&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2195\/6GwzDoXJgJhfc4XE7PazHZqo?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=IjVSbbpeAnEs5xPBTawLaaaA2hUjnkGpqGnY9YT9EEK10zNWGpCAa6wK6%2FKCmorzNf0tKeEWaZz6Y9p6D6%2FjfqQmqgXTUliUfHgtP%2BTKRMrMP3kLHADJ1757KsDlXCZqaVp2TuuWluLMogisLLTYFBUVLAD2F72vCDcrRoATZAQE6%2Fzi6K9HMXLBcyqjiPK6mFi5rB%2B%2BmQbpD3MgMtpgVgrZSkHkAi31uNVHYRLhiWzxioyWv%2FoB%2BadvZX0dhDxGVfOeed7z1D%2FkOEbxVhXJraWgXBQay9EY4ObyM%2FASGnmmDgsnw5ESMHu2Q22Bq4lmywmi4GbP0A9xq2RqucxZqQ%3D%3D&response-content-disposition=inline%3B+filename%3D%225iiFR94TLpV1S7jcTUfKC9TV%22%3B+filename%2A%3DUTF-8%27%275iiFR94TLpV1S7jcTUfKC9TV&response-content-type=image%2Fjpeg",
+              "https:\/\/assets.ejaro.com\/staging\/car\/public\/2195\/WikPheuo7GrdavrjEDuSbJQh?GoogleAccessId=gc-storage%40ejaro-infra.iam.gserviceaccount.com&Expires=1728357182&Signature=h5j72h7NrkUEepdiqSPdJeJ%2FaAYnW0qXoxc1WcCuzEqSpWFA7iaSeYhpwJKDtmr4EX0OOREjolhrGa1fKwX2WYf8XdRrw%2BFhoCOP4lQNy2cmyZ49q64rm2Z%2FxdqH7PjZnMI2iE8COiNvbw%2BFbGOi27v%2FaOXh6%2B8bWiQDHgemM6seCm6Pu9KHQvF4Qi1paSBGdEzVK4UYFI3bJkNQhDsMTLpi%2BvUUJBA07r8FKMD%2F%2BEjCxsHakwP7pcTapQMv6twsAoLZfyyckVl9yUbzRC8HexIkRDLmYJApm08UfKzga%2FYt5lGFOw4ByRWgQs1T11%2BBeHdlQgRk%2F5bDFRTWbG1eNQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22HzVcXPQp5vLmx3ok75mZoVuV%22%3B+filename%2A%3DUTF-8%27%27HzVcXPQp5vLmx3ok75mZoVuV&response-content-type=image%2Fjpeg"
+            ],
+            "id": 2195,
+            "name": "Mazda Mazda3 2015",
+            "host_tag": {
+              "text_color": "#ffffff",
+              "background_color": "#B10C19",
+              "value": "Super Host"
+            },
+            "latitude": 28.619510033322868,
+            "longitude": 77.374421114758846,
+            "delivery_tag": {
+              "identifier": "delivery_available",
+              "icon": "icon-delivery",
+              "label": "Delivery Available"
+            },
+            "priority": 0,
+            "weekly_price": "246.00 SR"
+          }
+        ],
+        "filter": null,
+        "title": "Monthly offers"
+      }
+    ]
+  },
+  "message": {
+    
+  },
+  "hints": {
+    
+  },
+  "options": {
+    
+  },
+  "errors": [
+    
+  ],
+  "success": true
+}
